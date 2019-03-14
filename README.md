@@ -10,3 +10,4 @@ https://www.youtube.com/watch?v=oQ4kT8KhRY8&list=PLuBMRNcyzsWyX23ACizOkecJVIsB1K
 
 ![](https://github.com/cchamchi/git_tutorial/blob/master/github-5-638.jpg) 
 
+![](https://github.com/cchamchi/git_tutorial/blob/master/git-transport.png) 
